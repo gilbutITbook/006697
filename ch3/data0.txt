@@ -1,0 +1,59 @@
+label
+사물
+
+
+label
+반도체 기억 소자
+isa  
+사물
+
+
+label
+RAM
+isa 
+반도체 기억 소자
+
+
+
+label
+ROM
+isa 
+반도체 기억 소자
+
+
+
+label
+SRAM
+isa 
+RAM
+
+
+
+label
+DRAM
+isa 
+RAM
+
+
+label
+PROM
+isa 
+ROM
+
+
+label
+마스크 ROM
+isa 
+ROM
+
+
+label
+플래시 메모리
+isa 
+PROM
+
+
+label
+UVEPROM
+isa 
+PROM
