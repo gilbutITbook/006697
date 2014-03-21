@@ -1,0 +1,1547 @@
+CHAPTER III.
+
+CROOKED ANSWERS.
+
+            "I answered him, as I thought good,
+             'As many as red-herrings grow in the wood'."
+
+__________
+
+
+
+
+
+
+1.  Elementary.
+
+
+
+1.  Whatever can be "attributed to", that is "said to belong to",
+a Thing, is called an 'Attribute'.  For example, "baked", which
+can (frequently) be attributed to "Buns", and "beautiful", which
+can (seldom) be attributed to "Babies".
+
+2.  When they are the Names of two Things (for example, "these
+Pigs are fat Animals"), or of two Attributes (for example, "pink
+is light red").
+
+3.  When one is the Name of a Thing, and the other the Name of an
+Attribute (for example, "these Pigs are pink"), since a Thing cannot
+actually BE an Attribute.
+
+4.  That the Substantive shall be supposed to be repeated at the
+end of the sentence (for example, "these Pigs are pink (Pigs)").
+
+5.  A 'Proposition' is a sentence stating that some, or none, or all,
+of the Things belonging to a certain class, called the 'Subject',
+are also Things belonging to a certain other class, called the
+'Predicate'.  For example, "some new Cakes are not nice", that is
+(written in full) "some new Cakes are not nice Cakes"; where the
+class "new Cakes" is the Subject, and the class "not-nice Cakes"
+is the Predicate.
+
+6.  A Proposition, stating that SOME of the Things belonging to
+its Subject are so-and-so, is called 'Particular'.  For example,
+"some new Cakes are nice", "some new Cakes are not nice."
+
+A Proposition, stating that NONE of the Things belonging to its
+Subject, or that ALL of them, are so-and-so, is called 'Universal'.
+For example, "no new Cakes are nice", "all new Cakes are not nice".
+
+7.  The Things in each compartment possess TWO Attributes, whose
+symbols will be found written on two of the EDGES of that compartment.
+
+8.  "One or more."
+
+9.  As a name of the class of Things to which the whole Diagram is
+assigned.
+
+10.  A Proposition containing two statements.  For example, "some
+new Cakes are nice and some are not-nice."
+
+11.  When the whole class, thus divided, is "exhausted" among the
+sets into which it is divided, there being no member of it which
+does not belong to some one of them.  For example, the class "new
+Cakes" is "exhaustively" divided into "nice" and "not-nice" since
+EVERY new Cake must be one or the other.
+
+12.  When a man cannot make up his mind which of two parties he
+will join, he is said to be "sitting on the fence"--not being able
+to decide on which side he will jump down.
+
+13.  "Some x are y" and "no x are y'".
+
+14.  A Proposition, whose Subject is a single Thing, is called
+'Individual'.  For example, "I am happy", "John is not at home".
+These are Universal Propositions, being the same as "all the I's
+that exist are happy", "ALL the Johns, that I am now considering,
+are not at home".
+
+15.  Propositions beginning with "some" or "all".
+
+16.  When they begin with "some" or "no".  For example, "some
+abc are def" may be re-arranged as "some bf are acde", each being
+equivalent to "some abcdef exist".
+
+17.  Some tigers are fierce, No tigers are not-fierce.
+
+18.  Some hard-boiled eggs are unwholesome, No hard-boiled
+eggs are wholesome.
+
+19.  Some I's are happy, No I's are unhappy.
+
+20.  Some Johns are not at home, No Johns are at home.
+
+21.  The Things, in each compartment of the larger Diagram, possess
+THREE Attributes, whose symbols will be found written at three of
+the CORNERS of the compartment (except in the case of m', which is
+not actually inserted in the Diagram, but is SUPPOSED to stand at
+each of its four outer corners).
+
+22.  If the Universe of Things be divided with regard to three
+different Attributes; and if two Propositions be given, containing
+two different couples of these Attributes; and if from these we
+can prove a third Proposition, containing the two Attributes that
+have not yet occurred together; the given Propositions are called
+'the Premisses', the third one 'the Conclusion', and the whole set
+'a Syllogism'.  For example, the Premisses might be "no m are x'"
+and "all m' are y"; and it might be possible to prove from them
+a Conclusion containing x and y.
+
+23.  If an Attribute occurs in both Premisses, the Term containing
+it is called 'the Middle Term'.  For example, if the Premisses are
+"some m are x" and "no m are y'", the class of "m-Things" is 'the
+Middle Term.'
+
+If an Attribute occurs in one Premiss, and its contradictory in the
+other, the Terms containing them may be called 'the Middle Terms'.
+For example, if the Premisses are "no m are x'" and "all m' are
+y", the two classes of "m-Things" and "m'-Things" may be called
+'the Middle Terms'.
+
+24.  Because they can be marked with CERTAINTY: whereas AFFIRMATIVE
+Propositions (that is, those that begin with "some" or "all")
+sometimes require us to place a red counter 'sitting on a fence'.
+
+25.  Because the only question we are concerned with is whether the
+Conclusion FOLLOWS LOGICALLY from the Premisses, so that, if THEY
+were true, IT also would be true.
+
+26.  By understanding a red counter to mean "this compartment CAN
+be occupied", and a grey one to mean "this compartment CANNOT be
+occupied" or "this compartment MUST be empty".
+
+27.  'Fallacious Premisses' and 'Fallacious Conclusion'.
+
+28.  By finding, when we try to transfer marks from the larger
+Diagram to the smaller, that there is 'no information' for any of
+its four compartments.
+
+29.  By finding the correct Conclusion, and then observing that
+the Conclusion, offered to us, is neither identical with it nor a
+part of it.
+
+30.  When the offered Conclusion is PART of the correct Conclusion.
+In this case, we may call it a 'Defective Conclusion'.
+
+
+
+
+2.  Half of Smaller Diagram.
+
+
+
+Propositions represented.
+
+__________
+
+
+                  -------            -------
+                 |   |   |          |   |   |
+             1.  |   | 1 |      2.  | 0 | 1 |
+                 |   |   |          |   |   |
+                  -------            -------
+
+
+                  -------            -------
+                 |   |   |          |   |   |
+             3.  | 1 | 1 |      4.  | 0 | 0 |
+                 |   |   |          |   |   |
+                  -------            -------
+
+                  -------            -------
+                 |   |   |          |   |   |
+             5.  |   1   |      6.  |   | 0 |
+                 |   |   |          |   |   |
+                  -------            -------
+
+       -------
+      |   |   |
+  7.  | 1 | 1 |  It might be thought that the proper
+      |   |   |
+       -------     -------
+                  |   |   |
+Diagram would be  |   1 1 |, in order to express "some
+                  |   |   |
+                   -------
+x exist": but this is really contained in "some x are y'."
+To put a red counter on the division-line would only tell
+us "ONE OF THE compartments is occupied", which we
+know already, in knowing that ONE is occupied.
+                          -------
+                         |   |   |
+  8.  No x are y.  i.e.  | 0 |   |
+                         |   |   |
+                          -------
+
+                             -------
+                            |   |   |
+  9.  Some x are y'.  i.e.  |   | 1 |
+                            |   |   |
+                             -------
+
+                           -------
+                          |   |   |
+ 10.  All x are y.  i.e.  | 1 | 0 |
+                          |   |   |
+                           -------
+
+                            -------
+                           |   |   |
+ 11.  Some x are y.  i.e.  | 1 |   |
+                           |   |   |
+                            -------
+
+                          -------
+                         |   |   |
+ 12.  No x are y.  i.e.  | 0 |   |
+                         |   |   |
+                          -------
+
+                                             -------
+                                            |   |   |
+ 13.  Some x are y, and some are y'.  i.e.  | 1 | 1 |
+                                            |   |   |
+                                             -------
+
+                            -------
+                           |   |   |
+ 14.  All x are y'.  i.e.  | 0 | 1 |
+                           |   |   |
+                            -------
+                          ---
+                         |   |
+ 15. No y are x'.  i.e.  |---|
+                         | 0 |
+                          ---
+
+                          ---
+                         | 1 |
+ 16. All y are x.  i.e.  |---|
+                         | 0 |
+                          ---
+
+                         ---
+                        | 0 |
+ 17. No y exist.  i.e.  |---|
+                        | 0 |
+                         ---
+
+                            ---
+                           |   |
+ 18. Some y are x'.  i.e.  |---|
+                           | 1 |
+                            ---
+
+                           ---
+                          |   |
+ 15. Some y exist.  i.e.  |-1-|
+                          |   |
+                           ---
+
+
+
+
+3.  Half of Smaller Diagram.
+
+
+
+Symbols interpreted.
+
+__________
+
+1.  No x are y'.
+
+2.  No x exist.
+
+3.  Some x exist.
+
+4.  All x are y'.
+
+5.  Some x are y.  i.e. Some good riddles are hard.
+
+6.  All x are y.  i.e. All good riddles are hard.
+
+7.  No x exist.  i.e. No riddles are good.
+
+8.  No x are y.  i.e. No good riddles are hard.
+
+9.  Some x are y'.  i.e. Some lobsters are unselfish.
+
+10.  No x are y.  i.e. No lobsters are selfish.
+
+11.  All x are y'.  i.e. All lobsters are unselfish.
+
+12.  Some x are y, and some are y'.  i.e. Some lobsters are
+selfish, and some are unselfish.
+
+13.  All y' are x'.  i.e. All invalids are unhappy.
+
+14.  Some y' exist.  i.e. Some people are unhealthy.
+
+15.  Some y' are x, and some are x'.  i.e. Some invalids are
+happy, and some are unhappy.
+
+16.  No y' exist.  i.e. Nobody is unhealthy.
+
+
+
+
+
+4.  Smaller Diagram.
+
+
+
+Propositions represented.
+
+__________
+
+                   -------               -------
+                  | 1 |   |             |   |   |
+              1.  |---|---|         2.  |---|---|
+                  | 0 |   |             | 1 |   |
+                   -------               -------
+
+                   -------               -------
+                  |   |   |             |   | 1 |
+              3.  |---|---|         4.  |---|---|
+                  |   | 0 |             |   |   |
+                   -------               -------
+
+                   -------               -------
+                  |   | 1 |             |   |   |
+              5.  |---|---|         6.  |---|---|
+                  |   |   |             | 0 |   |
+                   -------               -------
+
+                   -------               -------
+                  |   |   |             |   |   |
+              7.  |---|---|         8.  |---|---|
+                  |   | 1 |             | 0 | 1 |
+                   -------               -------
+
+                   -------               -------
+                  |   |   |             |   |   |
+              9.  |---|-1-|        10.  |---|---|
+                  |   |   |             | 0 | 0 |
+                   -------               -------
+
+                   -------               -------
+                  | 1 |   |             | 1 | 0 |
+             11.  |---|---|        12.  |---|---|
+                  | 1 |   |             |   | 1 |
+                   -------               -------
+
+
+                           -------
+                          |   |   |
+ 13.  No x' are y.  i.e.  |---|---|
+                          | 0 |   |
+                           -------
+
+                             -------
+                            |   | 0 |
+ 14.  All y' are x'.  i.e.  |---|---|
+                            |   | 1 |
+                             -------
+
+
+                             -------
+                            |   |   |
+ 15.  Some y' exist.  i.e.  |---|-1-|
+                            |   |   |
+                             -------
+
+                                            -------
+                                           | 1 | 0 |
+ 16.  All y are x, and all x are y.  i.e.  |---|---|
+                                           | 0 |   |
+                                            -------
+                           -------
+                          |   |   |
+ 17.  No x' exist.  i.e.  |---|---|
+                          | 0 | 0 |
+                           -------
+
+                            -------
+                           | 0 | 1 |
+ 18.  All x are y'.  i.e.  |---|---|
+                           |   |   |
+                            -------
+
+                          -------
+                         | 0 |   |
+ 19.  No x are y.  i.e.  |---|---|
+                         |   |   |
+                          -------
+
+
+                                              -------
+                                             |   |   |
+ 20.  Some x' are y, and some are y'.  i.e.  |---|---|
+                                             | 1 | 1 |
+                                              -------
+
+                                            -------
+                                           | 0 | 1 |
+ 21.  No y exist, and some x exist.  i.e.  |---|---|
+                                           | 0 |   |
+                                            -------
+
+                                              -------
+                                             |   | 1 |
+ 22.  All x' are y, and all y' are x.  i.e.  |---|---|
+                                             | 1 | 0 |
+                                              -------
+
+                                                -------
+                                               | 1 |   |
+ 17.  Some x are y, and some x' are y'.  i.e.  |---|---|
+                                               |   | 1 |
+                                                -------
+
+
+
+
+
+5.  Smaller Diagram.
+
+
+
+Symbols interpreted.
+
+__________
+
+
+1.  Some y are not-x, or, Some not-x are y.
+
+2.  No not-x are not-y, or, No not-y are not-x.
+
+3.  No not-y are x.
+
+4.  No not-x exist.  i.e.  No Things are not-x.
+
+5.  No y exist.  i.e.  No houses are two-storied.
+
+6.  Some x' exist.  i.e.  Some houses are not built of brick.
+
+7.  No x are y'.  Or, no y' are x.  i.e.  No houses, built of
+brick, are other than two-storied.  Or, no houses, that
+are not two-storied, are built of brick.
+
+8.  All x' are y'.  i.e.  All houses, that are not built of
+brick, are not two-storied.
+
+9.  Some x are y, and some are y'.  i.e.  Some fat boys are
+active, and some are not.
+
+10.  All y' are x'.  i.e.  All lazy boys are thin.
+
+11.  All x are y', and all y' are x.  i.e.  All fat boys
+are lazy, and all lazy ones are fat.
+
+12.  All y are x, and all x' are y.  i.e.  All active boys
+are fat, and all thin ones are lazy.
+
+13.  No x exist, and no y' exist.  i.e.  No cats have green eyes,
+and none have bad tempers.
+
+14.  Some x are y', and some x' are y.  Or some y are x', and
+some y' are x.  i.e.  Some green-eyed cats are bad-tempered,
+and some, that have not green eyes, are good-tempered.
+Or, some good-tempered cats have not green eyes, and some
+bad-tempered ones have green eyes.
+
+15.  Some x are y, and no x' are y'.  Or, some y are x, and
+no y' are x'.  i.e.  Some green-eyed cats are good-tempered, and
+none, that are not green-eyed, are bad-tempered.  Or, some
+good-tempered cats have green eyes, and none, that are
+bad-tempered, have not green eyes.
+
+16.  All x are y', and all x' are y.  Or, all y are x', and all
+y' are x.  i.e.  All green-eyed cats are bad-tempered and
+all, that have not green eyes, are good-tempered.  Or, all
+good-tempered ones have eyes that are not green, and all
+bad-tempered ones have green eyes.
+
+
+
+
+6.  Larger Diagram.
+
+
+
+Propositions represented.
+
+__________
+
+             ---------------               ---------------
+            |       |       |             |       |       |
+            |    ---|---    |             |    ---|---    |
+            |   | 0 | 0 |   |             |   |   |   |   |
+        1.  |---|---|---|---|         2.  |-1-|---|---|---|
+            |   |   |   |   |             |   |   |   |   |
+            |    ---|---    |             |    ---|---    |
+            |       |       |             |       |       |
+             ---------------               ---------------
+
+
+             ---------------               ---------------
+            |       |       |             |       |     0 |
+            |    ---|---    |             |    ---|---    |
+            |   | 0 | 0 |   |             |   |   |   |   |
+        3.  |---|---|---|---|         4.  |---|---|---|---|
+            |   |   -   |   |             |   |   |   |   |
+            |    ---|---    |             |    ---|---    |
+            |       |       |             |       |     0 |
+             ---------------               ---------------
+
+
+             ---------------               ---------------
+            | 0     |       |             |       |       |
+            |    ---|---    |             |    ---|---    |
+            |   | 0 | 0 |   |             |   | 0 | 1 |   |
+        5.  |---|---|---|---|         6.  |---|---|---|---|
+            |   | 1 |   |   |             |   | 0 |   |   |
+            |    ---|---    |             |    ---|---    |
+            | 0     |       |             |       |       |
+             ---------------               ---------------
+
+
+             ---------------               ---------------
+            |       |       |             |       |     0 |
+            |    ---|---    |             |    ---|---    |
+            |   | 0 | 0 |   |             |   |   |   |   |
+        7.  |---|---|---|---|         8.  |---|---|---|---|
+            |   | 0 | 1 |   |             |   | 0 | 0 |   |
+            |    ---|---    |             |    ---|---    |
+            |       |       |             |       |     0 |
+             ---------------               ---------------
+
+
+                          ---------------
+                         |       |       |
+                         |    ---|---    |
+                         |   | 0 | 0 |   |
+  9.  No x are m.  i.e.  |---|---|---|---|
+                         |   | 0 |   |   |
+                         |    ---|---    |
+                         |       |       |
+                          ---------------
+
+
+                             ---------------
+                            |       |       |
+                            |    ---|---    |
+                            |   |   |   |   |
+ 10.  Some m' are y.  i.e.  |-1-|---|---|---|
+                            |   |   |   |   |
+                            |    ---|---    |
+                            |       |       |
+                             ---------------
+
+
+                             ---------------
+                            |       |       |
+                            |    ---|---    |
+                            |   |   | 0 |   |
+ 11.  All y' are m'.  i.e.  |---|---|---|-1-|
+                            |   |   | 0 |   |
+                            |    ---|---    |
+                            |       |       |
+                             ---------------
+
+                            ---------------
+                           |       |       |
+                           |    ---|---    |
+                           |   | 0 | 0 |   |
+ 12.  All m are x'.  i.e.  |---|---|---|---|
+                           |   |   1   |   |
+                           |    ---|---    |
+                           |       |       |
+                            ---------------
+
+                               ---------------
+                              | 0     |       |
+                              |    ---|---    |
+                              |   | 0 | 0 |   |
+ 13.  No x are m;       i.e.  |---|---|---|---|
+      All y are m.            |   | 1 |   |   |
+                              |    ---|---    |
+                              | 0     |       |
+                               ---------------
+
+                                ---------------
+                               | 0     |     0 |
+                               |    ---|---    |
+                               |   |   |   |   |
+ 14.  All m' are y;      i.e.  |---|---|---|---|
+      No x are m'.             |   |   |   |   |
+                               |    ---|---    |
+                               | 1     |     0 |
+                                ---------------
+
+
+                               ---------------
+                              | 0     |     0 |
+                              |    ---|---    |
+                              |   | 1 | 0 |   |
+ 15.  All x are m;      i.e.  |---|---|---|---|
+      No m are y'.            |   |   | 0 |   |
+                              |    ---|---    |
+                              |       |       |
+                               ---------------
+
+                                 ---------------
+                                | 0     |     0 |
+                                |    ---|---    |
+                                |   |   |   |   |
+ 16.  All m' are y';      i.e.  |---|---|---|---|
+      No x are m'.              |   |   |   |   |
+                                |    ---|---    |
+                                | 0     |     1 |
+                                 ---------------
+
+                                ---------------
+                               | 0     |     0 |
+                               |    ---|---    |
+                               |   | 1 | 0 |   |
+ 17.  All x are m;       i.e.  |---|---|---|---|
+      All m are y.             |   |   | 0 |   |
+                               |    ---|---    |
+[See remarks on No. 7, p. 60.] |       |       |
+                                ---------------
+
+                               ---------------
+                              | 0     |       |
+                              |    ---|---    |
+                              |   |   |   |   |
+ 18.  No x' are m;      i.e.  |---|---|---|---|
+      No m' are y.            |   | 0 | 0 |   |
+                              |    ---|---    |
+                              | 0     |       |
+                               ---------------
+
+                               ---------------
+                              |       |       |
+                              |    ---|---    |
+                              |   | 1 | 0 |   |
+ 19.  All m are x;      i.e.  |---|---|---|---|
+      All m are y.            |   | 0 | 0 |   |
+                              |    ---|---    |
+                              |       |       |
+                               ---------------
+
+  20.  We had better take "persons" as Universe.  We
+may choose "myself" as 'Middle Term', in which case
+the Premisses will take the form
+
+  I am a-person-who-sent-him-to-bring-a-kitten;
+  I am a-person-to-whom-he-brought-a-kettle-by-mistake.
+
+Or we may choose "he" as 'Middle Term', in which case the Premisses
+will take the form
+
+  He is a-person-whom-I-sent-to-bring-me-a-kitten;
+  He is a-person-who-brought-me-a-kettle-by-mistake.
+
+The latter form seems best, as the interest of the anecdote clearly
+depends on HIS stupidity--not on what happened to ME.  Let us then
+make m = "he"; x = "persons whom I sent, &c."; and y = "persons
+who brought, &c."
+
+  Hence, All m are x;
+         All m are y.    and the required Diagram is
+
+
+                      ---------------
+                     |       |       |
+                     |    ---|---    |
+                     |   | 1 | 0 |   |
+                     |---|---|---|---|
+                     |   | 0 | 0 |   |
+                     |    ---|---    |
+                     |       |       |
+                      ---------------
+
+
+
+
+7.  Both Diagrams employed.
+
+       -------
+      | 0 |   |
+  1.  |---|---|  i.e.  All y are x'.
+      | 1 |   |
+       -------
+
+       -------
+      |   | 1 |
+  2.  |---|---|  i.e.  Some x are y'; or, Some y' are x.
+      |   |   |
+       -------
+
+       -------
+      |   |   |
+  3.  |---|---|  i.e.  Some y are x'; or, Some x' are y.
+      | 1 |   |
+       -------
+
+       -------
+      |   |   |
+  4.  |---|---|  i.e.  No x' are y'; or, No y' are x'.
+      |   | 0 |
+       -------
+
+       -------
+      | 0 |   |
+  5.  |---|---|  i.e.  All y are x'.  i.e.  All black rabbits
+      | 1 |   |        are young.
+       -------
+
+       -------
+      |   |   |
+  6.  |---|---|  i.e.  Some y are x'.  i.e. Some black
+      | 1 |   |        rabbits are young.
+       -------
+
+       -------
+      | 1 | 0 |
+  7.  |---|---|  i.e.  All x are y.  i.e. All well-fed birds
+      |   |   |        are happy.
+       -------
+
+
+       -------
+      |   |   |  i.e.  Some x' are y'.  i.e.  Some birds,
+  8.  |---|---|        that are not well-fed, are unhappy;
+      |   | 1 |        or, Some unhappy birds are not
+       -------         well-fed.
+
+
+       -------
+      | 1 | 0 |
+  9.  |---|---|  i.e.  All x are y.  i.e.  John has got a
+      |   |   |        tooth-ache.
+       -------
+
+
+       -------
+      |   |   |
+ 10.  |---|---|  i.e.  No x' are y.  i.e.  No one, but John,
+      | 0 |   |        has got a tooth-ache.
+       -------
+
+
+       -------
+      | 1 |   |
+ 11.  |---|---|  i.e.  Some x are y.  i.e. Some one, who
+      |   |   |        has taken a walk, feels better.
+       -------
+
+
+       -------
+      | 1 |   |  i.e.  Some x are y.  i.e.  Some one,
+ 12.  |---|---|        whom I sent to bring me a kitten,
+      |   |   |        brought me a kettle by mistake.
+       -------
+
+      ---------------
+     |       |     0 |
+     |    ---|---    |
+     |   | 0 | 0 |   |
+13.  |-1-|---|---|---|        -------
+     |   |   |   |   |       |   | 0 |
+     |    ---|---    |       |---|---|
+     |       |     0 |       |   |   |
+      ---------------         -------
+
+
+        Let "books" be Universe; m="exciting",
+    x="that suit feverish patients"; y="that make
+                     one drowsy".
+
+        No m are x; &there4 No y' are x.
+        All m' are y.
+
+  i.e.  No books suit feverish patients, except such as make
+        one drowsy.
+
+      ---------------
+     |       |       |
+     |    ---|---    |
+     |   | 1 | 0 |   |
+14.  |---|---|---|---|        -------
+     |   |   | 0 |   |       | 1 |   |
+     |    ---|---    |       |---|---|
+     |       |       |       |   |   |
+      ---------------         -------
+
+
+Let "persons" be Universe; m="that deserve the fair";
+      x="that get their deserts"; y="brave".
+
+        Some m are x; &there4 Some y are x.
+        No y' are m.
+
+      i.e. Some brave persons get their deserts.
+
+      ---------------
+     | 0     |       |
+     |    ---|---    |
+     |   | 0 | 0 |   |
+15.  |---|---|---|---|        -------
+     |   |   |   |   |       | 0 |   |
+     |    ---|---    |       |---|---|
+     | 0     |       |       |   |   |
+      ---------------         -------
+
+        Let "persons" be Universe; m="patient";
+         x="children"; y="that can sit still".
+
+          No x are m; &there4 No x are y.
+          No m' are y.
+
+           i.e.  No children can sit still.
+
+
+      ---------------
+     | 0     |     0 |
+     |    ---|---    |
+     |   | 0 | 1 |   |
+16.  |---|---|---|---|        -------
+     |   | 0 |   |   |       | 0 | 1 |
+     |    ---|---    |       |---|---|
+     |       |       |       |   |   |
+      ---------------         -------
+
+
+     Let "things" be Universe; m="fat"; x="pigs";
+         y="skeletons".
+
+          All x are m; &there4 All x are y'.
+          No y are m.
+
+           i.e.  All pigs are not-skeletons.
+
+      ---------------
+     |       |       |
+     |    ---|---    |
+     |   | 0 | 0 |   |
+17.  |---|---|---|---|        -------
+     |   | 1 | 0 |   |       |   |   |
+     |    ---|---    |       |---|---|
+     |       |       |       | 1 |   |
+      ---------------         -------
+
+      Let "creatures" be Universe; m="monkeys";
+          x="soldiers"; y="mischievous".
+
+           No m are x; &there4 Some y are x'.
+           All m are y.
+
+      i.e.  Some mischievous creatures are not soldiers.
+
+
+      ---------------
+     | 0     |       |
+     |    ---|---    |
+     |   | 0 | 0 |   |
+18.  |---|---|---|---|        -------
+     |   |   |   |   |       | 0 |   |
+     |    ---|---    |       |---|---|
+     | 0     |       |       |   |   |
+      ---------------         -------
+
+       Let "persons" be Universe; m="just";
+         x="my cousins"; y="judges".
+
+          No x are m; &there4 No x are y.
+          No y are m'.
+
+              i.e.  None of my cousins are judges.
+
+      ---------------
+     |       |       |
+     |    ---|---    |
+     |   | 1 | 0 |   |
+19.  |---|---|---|---|        -------
+     |   |   |   |   |       | 1 |   |
+     |    ---|---    |       |---|---|
+     |       |       |       |   |   |
+      ---------------         -------
+
+       Let "periods" be Universe; m="days";
+            x="rainy"; y="tiresome".
+
+         Some m are x; &there4 Some x are y.
+         All xm are y.
+
+              i.e.  Some rainy periods are tiresome.
+
+N.B.  These are not legitimate Premisses, since the
+Conclusion is really part of the second Premiss, so that the
+first Premiss is superfluous.  This may be shown, in letters,
+thus:--
+
+"All xm are y" contains "Some xm are y", which
+contains "Some x are y".  Or, in words, "All rainy days
+are tiresome" contains "Some rainy days are tiresome",
+which contains "Some rainy periods are tiresome".
+
+Moreover, the first Premiss, besides being superfluous, is
+actually contained in the second; since it is equivalent to
+"Some rainy days exist", which, as we know, is implied in
+the Proposition "All rainy days are tiresome".
+
+Altogether, a most unsatisfactory Pair of Premisses!
+
+      ---------------
+     | 0     |       |
+     |    ---|---    |
+     |   | 1 |   |   |
+20.  |---|---|---|---|        -------
+     |   | 0 | 0 |   |       | 1 |   |
+     |    ---|---    |       |---|---|
+     | 0     |       |       | 0 |   |
+      ---------------         -------
+
+       Let "things" be Universe; m="medicine";
+                x="nasty"; y="senna".
+
+             All m are x; &there4 All y are x.
+             All y are m.
+
+                    i.e.  Senna is nasty.
+
+                         [See remarks on No. 7, p 60.]
+
+      ---------------
+     |       |       |
+     |    ---|---    |
+     |   | 0 | 1 |   |
+21.  |-1-|---|---|---|        -------
+     |   | 0 |   |   |       |   | 1 |
+     |    ---|---    |       |---|---|
+     |       |       |       |   |   |
+      ---------------         -------
+
+        Let "persons" be Universe; m="Jews";
+             x="rich"; y="Patagonians".
+
+              Some m are x; &there4 Some x are y'.
+              All y are m'.
+
+  i.e.  Some rich persons are not Patagonians.
+
+      ---------------
+     | 0     |       |
+     |    ---|---    |
+     |   |   -   |   |
+22.  |---|---|---|---|        -------
+     |   | 0 | 0 |   |       |   |   |
+     |    ---|---    |       |---|---|
+     | 0     |       |       | 0 |   |
+      ---------------         -------
+
+   Let "creatures" be Universe; m="teetotalers";
+       x="that like sugar"; y="nightingales".
+
+            All m are x; &there4 No y are x'.
+            No y are m'.
+
+        i.e.  No nightingales dislike sugar.
+
+      ---------------
+     |       |       |
+     |    ---|---    |
+     |   | 0 | 0 |   |
+23.  |-1-|---|---|---|        -------
+     |   | 0 |   |   |       |   |   |
+     |    ---|---    |       |---|---|
+     |       |       |       |   |   |
+      ---------------         -------
+
+        Let "food" be Universe; m="wholesome";
+                 x="muffins"; y="buns".
+
+                      No x are m;
+                      All y are m.
+
+  There is 'no information' for the smaller Diagram; so
+no Conclusion can be drawn.
+
+      ---------------
+     |       |       |
+     |    ---|---    |
+     |   | 0 | 0 |   |
+24.  |---|---|---|---|        -------
+     |   | 1 |   |   |       |   |   |
+     |    ---|---    |       |---|---|
+     |       |       |       | 1 |   |
+      ---------------         -------
+
+  Let "creatures" be Universe; m="that run well";
+              x="fat"; y="greyhounds".
+
+           No x are m; &there4 Some y are x'.
+           Some y are m.
+
+               i.e.  Some greyhounds are not fat.
+
+
+      ---------------
+     |       |       |
+     |    ---|---    |
+     |   |   -   |   |
+25.  |-1-|---|---|---|        -------
+     |   | 0 | 0 |   |       |   |   |
+     |    ---|---    |       |---|---|
+     |       |       |       |   |   |
+      ---------------         -------
+
+       Let "persons" be Universe; m="soldiers";
+             x="that march"; y="youths".
+
+                  All m are x;
+                  Some y are m'.
+
+  There is 'no information' for the smaller Diagram; so
+no Conclusion can be drawn.
+
+      ---------------
+     | 0     |     0 |
+     |    ---|---    |
+     |   | 0 | 1 |   |
+26.  |---|---|---|---|        -------
+     |   | 0 |   |   |       | 0 | 1 |
+     |    ---|---    |       |---|---|
+     | 1     |       |       | 1 |   |
+      ---------------         -------
+
+
+          Let "food" be Universe; m="sweet";
+               x="sugar"; y="salt".
+
+          All x are m;     &there4      All x are y'.
+          All y are m'.                 All y are x'.
+
+
+                  i.e.   Sugar is not salt.
+                         Salt is not sugar.
+
+      ---------------
+     |       |       |
+     |    ---|---    |
+     |   | 1 | 0 |   |
+27.  |---|---|---|---|        -------
+     |   |   | 0 |   |       | 1 |   |
+     |    ---|---    |       |---|---|
+     |       |       |       |   |   |
+      ---------------         -------
+
+       Let "Things" be Universe; m="eggs";
+         x="hard-boiled"; y="crackable".
+
+          Some m are x; &there4 Some x are y.
+          No m are y'.
+
+  i.e.  Some hard-boiled things can be cracked.
+
+      ---------------
+     | 0     |       |
+     |    ---|---    |
+     |   | 0 | 0 |   |
+28.  |---|---|---|---|        -------
+     |   |   |   |   |       | 0 |   |
+     |    ---|---    |       |---|---|
+     | 0     |       |       |   |   |
+      ---------------         -------
+
+Let "persons" be Universe; m="Jews"; x="that
+  are in the house"; y="that are in the garden".
+
+             No m are x; &there4 No x are y.
+             No m' are y.
+
+  i.e.  No persons, that are in the house, are also in
+                      the garden.
+
+
+      ---------------
+     | 0     |     0 |
+     |    ---|---    |
+     |   |   -   |   |
+29.  |---|---|---|---|        -------
+     |   |   |   |   |       |   |   |
+     |    ---|---    |       |---|---|
+     | 1     |     0 |       | 1 |   |
+      ---------------         -------
+
+
+         Let "Things" be Universe; m="noisy";
+        x="battles"; y="that may escape notice".
+
+              All x are m; &there4 Some x' are y.
+              All m' are y.
+
+  i.e.  Some things, that are not battles, may escape notice.
+
+      ---------------
+     | 0     |       |
+     |    ---|---    |
+     |   | 0 | 0 |   |
+30.  |---|---|---|---|        -------
+     |   | 1 |   |   |       | 0 |   |
+     |    ---|---    |       |---|---|
+     | 0     |       |       | 1 |   |
+      ---------------         -------
+
+         Let "persons" be Universe; m="Jews";
+               x="mad"; y="Rabbis".
+
+            No m are x; &there4 All y are x'.
+            All y are m.
+
+                   i.e.  All Rabbis are sane.
+
+      ---------------
+     |       |       |
+     |    ---|---    |
+     |   | 1 |   |   |
+31.  |---|---|---|---|        -------
+     |   | 0 | 0 |   |       | 1 |   |
+     |    ---|---    |       |---|---|
+     |       |       |       |   |   |
+      ---------------         -------
+
+       Let "Things" be Universe; m="fish";
+         x="that can swim"; y="skates".
+
+          No m are x'; &there4 Some y are x.
+          Some y are m.
+
+            i.e.  Some skates can swim.
+
+      ---------------
+     |       |       |
+     |    ---|---    |
+     |   | 0 | 0 |   |
+32.  |---|---|---|---|        -------
+     |   | 1 |   |   |       |   |   |
+     |    ---|---    |       |---|---|
+     |       |       |       | 1 |   |
+      ---------------         -------
+
+  Let "people" be Universe; m="passionate";
+        x="reasonable"; y="orators".
+
+         All m are x'; &there4 Some y are x'.
+         Some y are m.
+
+       i.e.  Some orators are unreasonable.
+
+                        [See remarks on No. 7, p. 60.]
+
+
+
+
+
+
+
+CHAPTER IV.
+
+HIT OR MISS.
+
+
+         "Thou canst not hit it, hit it, hit it,
+          Thou canst not hit it, my good man."
+
+__________
+
+
+1.  Pain is wearisome; No pain is eagerly wished for.
+
+2.  No bald person needs a hair-brush; No lizards have hair.
+
+3.  All thoughtless people do mischief; No thoughtful person
+forgets a promise.
+
+4.  I do not like John; Some of my friends like John.
+
+5.  No potatoes are pine-apples; All pine-apples are nice.
+
+6.  No pins are ambitious; No needles are pins.
+
+7.  All my friends have colds; No one can sing who has a cold.
+
+8.  All these dishes are well-cooked; Some dishes are unwholesome
+if not well-cooked.
+
+9.  No medicine is nice; Senna is a medicine.
+
+10.  Some oysters are silent; No silent creatures are amusing.
+
+11.  All wise men walk on their feet; All unwise men walk on
+their hands.
+
+12.  "Mind your own business; This quarrel is no business of
+yours."
+
+13.  No bridges are made of sugar; Some bridges are picturesque.
+
+14.  No riddles interest me that can be solved; All these
+riddles are insoluble.
+
+15.  John is industrious; All industrious people are happy.
+
+16.  No frogs write books; Some people use ink in writing
+books.
+
+17.  No pokers are soft; All pillows are soft.
+
+18.  No antelope is ungraceful; Graceful animals delight the
+eye.
+
+19.  Some uncles are ungenerous; All merchants are generous.
+
+20.  No unhappy people chuckle; No happy people groan.
+
+21.  Audible music causes vibration in the air; Inaudible
+music is not worth paying for.
+
+22.  He gave me five pounds; I was delighted.
+
+23.  No old Jews are fat millers; All my friends are old
+millers.
+
+24.  Flour is good for food; Oatmeal is a kind of flour.
+
+25.  Some dreams are terrible; No lambs are terrible.
+
+26.  No rich man begs in the street; All who are not rich
+should keep accounts.
+
+27.  No thieves are honest; Some dishonest people are found
+out.
+
+28.  All wasps are unfriendly; All puppies are friendly.
+
+29.  All improbable stories are doubted; None of these
+stories are probable.
+
+30.  "He told me you had gone away."  "He never says one word
+of truth."
+
+31.  His songs never last an hour; A song, that lasts an
+hour, is tedious.
+
+32.  No bride-cakes are wholesome; Unwholesome food should
+be avoided.
+
+33.  No old misers are cheerful; Some old misers are thin.
+
+34.  All ducks waddle; Nothing that waddles is graceful.
+
+35.  No Professors are ignorant; Some ignorant people are
+conceited.
+
+36.  Toothache is never pleasant; Warmth is never unpleasant.
+
+37.  Bores are terrible; You are a bore.
+
+38.  Some mountains are insurmountable; All stiles can be
+surmounted.
+
+39.  No Frenchmen like plumpudding; All Englishmen like
+plumpudding.
+
+40.  No idlers win fame; Some painters are not idle.
+
+41.  No lobsters are unreasonable; No reasonable creatures
+expect impossibilities.
+
+42.  No kind deed is unlawful; What is lawful may be done
+without fear.
+
+43.  No fossils can be crossed in love; Any oyster may be
+crossed in love.
+
+44.  "This is beyond endurance!" "Well, nothing beyond
+endurance has ever happened to me."
+
+45.  All uneducated men are shallow; All these students are
+educated.
+
+46.  All my cousins are unjust; No judges are unjust.
+
+47.  No country, that has been explored, is infested
+by dragons; Unexplored countries are fascinating.
+
+48.  No misers are generous; Some old men are not generous.
+
+49.  A prudent man shuns hyaenas; No banker is imprudent.
+
+50.  Some poetry is original; No original work is producible
+at will.
+
+51.  No misers are unselfish; None but misers save egg-shells.
+
+52.  All pale people are phlegmatic; No one, who is not
+pale, looks poetical.
+
+53.  All spiders spin webs; Some creatures, that do not spin
+webs, are savage.
+
+54.  None of my cousins are just; All judges are just.
+
+55.  John is industrious; No industrious people are unhappy.
+
+56.  Umbrellas are useful on a journey; What is useless on
+a journey should be left behind.
+
+57.  Some pillows are soft; No pokers are soft.
+
+58.  I am old and lame; No old merchant is a lame gambler.
+
+59.  No eventful journey is ever forgotten; Uneventful
+journeys are not worth writing a book about.
+
+60.  Sugar is sweet; Some sweet things are liked by children.
+
+61.  Richard is out of temper; No one but Richard can ride
+that horse.
+
+62.  All jokes are meant to amuse; No Act of Parliament is
+a joke.
+
+63.  "I saw it in a newspaper." "All newspapers tell lies."
+
+64.  No nightmare is pleasant; Unpleasant experiences are
+not anxiously desired.
+
+65.  Prudent travellers carry plenty of small change; Imprudent
+travellers lose their luggage.
+
+66.  All wasps are unfriendly; No puppies are unfriendly.
+
+67.  He called here yesterday; He is no friend of mine.
+
+68.  No quadrupeds can whistle; Some cats are quadrupeds.
+
+69.  No cooked meat is sold by butchers; No uncooked meat
+is served at dinner.
+
+70.  Gold is heavy; Nothing but gold will silence him.
+
+71.  Some pigs are wild; There are no pigs that are not fat.
+
+72.  No emperors are dentists; All dentists are dreaded by
+children.
+
+73.  All, who are not old, like walking; Neither you nor I
+are old.
+
+74.  All blades are sharp; Some grasses are blades.
+
+75.  No dictatorial person is popular; She is dictatorial.
+
+76.  Some sweet things are unwholesome; No muffins are sweet.
+
+77.  No military men write poetry; No generals are civilians.
+
+78.  Bores are dreaded; A bore is never begged to prolong
+his visit.
+
+79.  All owls are satisfactory; Some excuses are unsatisfactory.
+
+80.  All my cousins are unjust; All judges are just.
+
+81.  Some buns are rich; All buns are nice.
+
+82.  No medicine is nice; No pills are unmedicinal.
+
+83.  Some lessons are difficult; What is difficult needs
+attention.
+
+84.  No unexpected pleasure annoys me; Your visit is an
+unexpected pleasure.
+
+85.  Caterpillars are not eloquent; Jones is eloquent.
+
+86.  Some bald people wear wigs; All your children have
+hair.
+
+87.  All wasps are unfriendly; Unfriendly creatures are
+always unwelcome.
+
+88.  No bankrupts are rich; Some merchants are not bankrupts.
+
+89.  Weasels sometimes sleep; All animals sometimes sleep.
+
+90.  Ill-managed concerns are unprofitable; Railways are
+never ill-managed.
+
+91.  Everybody has seen a pig; Nobody admires a pig.
+
+______________
+
+
+Extract a Pair of Premisses out of each of the following: and
+deduce the Conclusion, if there is one:--
+
+92.  "The Lion, as any one can tell you who has been chased by them
+as often as I have, is a very savage animal: and there are certain
+individuals among them, though I will not guarantee it as a general
+law, who do not drink coffee."
+
+93.  "It was most absurd of you to offer it!  You might have known,
+if you had had any sense, that no old sailors ever like gruel!"
+
+"But I thought, as he was an uncle of yours--"
+
+"An uncle of mine, indeed!  Stuff!"
+
+"You may call it stuff, if you like.  All I know is, MY uncles are
+all old men: and they like gruel like anything!"
+
+"Well, then YOUR uncles are--"
+
+94.  "Do come away!  I can't stand this squeezing any more.  No
+crowded shops are comfortable, you know very well."
+
+"Well, who expects to be comfortable, out shopping?"
+
+"Why, I do, of course!  And I'm sure there are some shops, further
+down the street, that are not crowded.  So--"
+
+95.  "They say no doctors are metaphysical organists: and that lets
+me into a little fact about YOU, you know."
+
+"Why, how do you make THAT out?  You never heard me play the organ."
+
+"No, doctor, but I've heard you talk about Browning's poetry: and
+that showed me that you're METAPHYSICAL, at any rate.  So--"
+
+___________________
+
+Extract a Syllogism out of each of the following: and
+test its correctness:--
+
+96.  "Don't talk to me!  I've known more rich merchants than you
+have: and I can tell you not ONE of them was ever an old miser
+since the world began!"
+
+"And what has that got to do with old Mr. Brown?"
+
+"Why, isn't he very rich?"
+
+"Yes, of course he is.  And what then?"
+
+"Why, don't you see that it's absurd to call him a miserly merchant?
+Either he's not a merchant, or he's not a miser!"
+
+97.  "It IS so kind of you to enquire!  I'm really feeling a great
+deal better to-day."
+
+"And is it Nature, or Art, that is to have the credit of this happy
+change?"
+
+"Art, I think.  The Doctor has given me some of that patent medicine
+of his."
+
+"Well, I'll never call him a humbug again.  There's SOMEBODY, at
+any rate, that feels better after taking his medicine!"
+
+98.  "No, I don't like you one bit.  And I'll go and play with my
+doll.  DOLLS are never unkind."
+
+"So you like a doll better than a cousin?  Oh you little silly!"
+
+"Of course I do!  COUSINS are never kind--at least no cousins I've
+ever seen."
+
+"Well, and what does THAT prove, I'd like to know!  If you mean
+that cousins aren't dolls, who ever said they were?"
+
+99.  "What are you talking about geraniums for?  You can't tell
+one flower from another, at this distance!  I grant you they're
+all RED flowers: it doesn't need a telescope to know THAT."
+
+"Well, some geraniums are red, aren't they?"
+
+"I don't deny it.  And what then?  I suppose you'll be telling me
+some of those flowers are geraniums!"
+
+"Of course that's what I should tell you, if you'd the sense to
+follow an argument!  But what's the good of proving anything to
+YOU, I should like to know?"
+
+100.  "Boys, you've passed a fairly good examination, all things
+considered.  Now let me give you a word of advice before I go.
+Remember that all, who are really anxious to learn, work HARD."
+
+"I thank you, Sir, in the name of my scholars!  And proud am I to
+think there are SOME of them, at least, that are really ANXIOUS to
+learn."
+
+"Very glad to hear it: and how do you make it out to be so?"
+
+"Why, Sir, I know how hard they work--some of them, that is.  Who
+should know better?"
+
+___________________
+
+Extract from the following speech a series of Syllogisms, or
+arguments having the form of Syllogisms: and test their correctness.
+
+It is supposed to be spoken by a fond mother, in answer to a friend's
+cautious suggestion that she is perhaps a LITTLE overdoing it, in
+the way of lessons, with her children.
+
+101.  "Well, they've got their own way to make in the world.  WE
+can't leave them a fortune apiece.  And money's not to be had, as
+YOU know, without money's worth: they must WORK if they want to
+live.  And how are they to work, if they don't know anything?  Take
+my word for it, there's no place for ignorance in THESE times!  And
+all authorities agree that the time to learn is when you're young.
+One's got no memory afterwards, worth speaking of.  A child will
+learn more in an hour than a grown man in five.  So those, that
+have to learn, must learn when they're young, if ever they're to
+learn at all.  Of course that doesn't do unless children are HEALTHY:
+I quite allow THAT.  Well, the doctor tells me no children are
+healthy unless they've got a good colour in their cheeks.  And only
+just look at my darlings!  Why, their cheeks bloom like peonies!
+Well, now, they tell me that, to keep children in health, you
+should never give them more than six hours altogether at lessons
+in the day, and at least two half-holidays in the week.  And that's
+EXACTLY our plan I can assure you!  We never go beyond six hours,
+and every Wednesday and Saturday, as ever is, not one syllable of
+lessons do they do after their one o'clock dinner!  So how you can
+imagine I'm running any risk in the education of my precious pets
+is more than I can understand, I promise you!"
+
+
+
+
+THE END.
